@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /ignore
 /logs
 mylogs.log
+=======
+/mylogs.log
+*.log
+ignore/
+>>>>>>> dev
